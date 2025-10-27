@@ -1,0 +1,299 @@
+contestId,index,name,type,tags,points,rating,solvedCount
+2162,H,Beautiful Problem,PROGRAMMING,['dp'],,,142
+2162,G,Beautiful Tree,PROGRAMMING,"['constructive algorithms', 'math', 'probabilities', 'trees']",,,2321
+2162,F,Beautiful Intervals,PROGRAMMING,"['constructive algorithms', 'greedy']",,,2370
+2162,E,Beautiful Palindromes,PROGRAMMING,"['constructive algorithms', 'greedy', 'schedules']",,,6609
+2162,D,Beautiful Permutation,PROGRAMMING,"['binary search', 'interactive']",,,10240
+2162,C,Beautiful XOR,PROGRAMMING,"['bitmasks', 'constructive algorithms', 'greedy']",,,16717
+2162,B,Beautiful String,PROGRAMMING,"['brute force', 'constructive algorithms']",,,21289
+2162,A,Beautiful Average,PROGRAMMING,"['brute force', 'greedy']",,,31312
+2160,C,Reverse XOR,PROGRAMMING,['bitmasks'],1250.0,,11583
+2160,B,Distinct Elements,PROGRAMMING,"['greedy', 'math']",1000.0,,13919
+2160,A,MEX Partition,PROGRAMMING,['math'],500.0,,18312
+2159,F,Grand Finale: Snakes,PROGRAMMING,"['binary search', 'interactive', 'ternary search']",3500.0,,102
+2159,E,Super-Short-Polynomial-San,PROGRAMMING,"['math', 'meet-in-the-middle']",3000.0,,138
+2159,D2,Inverse Minimum Partition (Hard Version),PROGRAMMING,"['dp', 'greedy', 'math']",1750.0,,284
+2159,D1,Inverse Minimum Partition (Easy Version),PROGRAMMING,"['binary search', 'brute force', 'dp', 'geometry', 'greedy', 'math', 'two pointers']",1500.0,,725
+2159,C,Twin Polynomials,PROGRAMMING,"['combinatorics', 'graph matchings', 'math']",1500.0,,1246
+2159,B,Rectangles,PROGRAMMING,"['brute force', 'data structures', 'dp', 'dsu', 'greedy', 'implementation', 'two pointers']",1500.0,,1731
+2159,A,MAD Interactive Problem,PROGRAMMING,"['constructive algorithms', 'implementation', 'interactive']",750.0,,6584
+2156,F2,Strange Operation (Hard Version),PROGRAMMING,"['data structures', 'greedy']",3250.0,,55
+2156,F1,Strange Operation (Easy Version),PROGRAMMING,"['brute force', 'data structures', 'greedy', 'implementation']",3250.0,,1033
+2156,E,Best Time to Buy and Sell Stock,PROGRAMMING,"['binary search', 'brute force', 'data structures', 'games', 'graphs', 'greedy']",2750.0,,411
+2156,D,Find the Last Number,PROGRAMMING,"['bitmasks', 'constructive algorithms', 'interactive', 'math']",2000.0,,3488
+2156,C,Maximum GCD on Whiteboard,PROGRAMMING,"['greedy', 'math', 'number theory']",1500.0,,8230
+2156,B,Strange Machine,PROGRAMMING,"['binary search', 'brute force', 'greedy', 'implementation']",750.0,,14724
+2156,A,Pizza Time,PROGRAMMING,"['brute force', 'constructive algorithms', 'greedy']",500.0,,19320
+2154,F2,Bombing (Hard Version),PROGRAMMING,"['combinatorics', 'dp']",1750.0,,112
+2154,F1,Bombing (Easy Version),PROGRAMMING,"['brute force', 'combinatorics', 'constructive algorithms', 'implementation', 'math']",2250.0,,342
+2154,E,No Mind To Think,PROGRAMMING,"['binary search', 'divide and conquer', 'greedy', 'sortings', 'ternary search', 'two pointers']",2500.0,,788
+2154,D,Catshock,PROGRAMMING,"['constructive algorithms', 'dfs and similar', 'graphs', 'trees', 'two pointers']",1750.0,,3187
+2154,C2,No Cost Too Great (Hard Version),PROGRAMMING,"['greedy', 'math', 'number theory']",1000.0,,4022
+2154,C1,No Cost Too Great (Easy Version),PROGRAMMING,"['greedy', 'implementation', 'math', 'number theory']",1250.0,,9944
+2154,B,Make it Zigzag,PROGRAMMING,"['constructive algorithms', 'greedy']",1000.0,,14791
+2154,A,Notelock,PROGRAMMING,"['greedy', 'two pointers']",500.0,,18360
+2153,F,Odd Queries on Odd Array,PROGRAMMING,"['bitmasks', 'brute force', 'data structures', 'implementation', 'trees']",3250.0,,211
+2153,E,Zero Trailing Factorial,PROGRAMMING,"['brute force', 'math', 'number theory']",2250.0,,696
+2153,D,Not Alone,PROGRAMMING,"['dp', 'greedy']",1750.0,,4858
+2153,C,Symmetrical Polygons,PROGRAMMING,"['constructive algorithms', 'geometry', 'greedy', 'implementation', 'sortings']",1250.0,,9663
+2153,B,Bitwise Reversion,PROGRAMMING,"['bitmasks', 'greedy']",750.0,,19554
+2153,A,Circle of Apple Trees,PROGRAMMING,"['greedy', 'sortings']",500.0,,22372
+2095,J,Premiere at a Wrong Time,PROGRAMMING,['*special'],,,464
+2095,I,Mysterious Script,PROGRAMMING,"['*special', 'expression parsing', 'number theory']",,,594
+2095,H,Blurry Vision,PROGRAMMING,"['*special', 'fft', 'math']",,,749
+2095,G,Definitely a Geometry Problem,PROGRAMMING,"['*special', 'geometry']",,,888
+2095,F,⅓ оf а Рrоblеm,PROGRAMMING,"['*special', 'math']",,,724
+2095,E,Pair Count,PROGRAMMING,"['*special', 'number theory']",,,719
+2095,D,Where Am I?,PROGRAMMING,"['*special', 'geometry']",,,4889
+2095,C,Would It Be Unrated?,PROGRAMMING,"['*special', 'binary search', 'brute force']",,,3182
+2095,B,Plinko,PROGRAMMING,"['*special', 'games', 'interactive']",,,5304
+2095,A,Piecing It Together,PROGRAMMING,"['*special', 'string suffix structures']",,,12492
+2087,I,Hamiltonian Partition,PROGRAMMING,"['*special', '*special']",,,23
+2087,H,Nim with Special Numbers,PROGRAMMING,"['*special', '*special']",,,25
+2087,G,Esports in Berland,PROGRAMMING,"['*special', '*special', 'greedy', 'greedy']",,,85
+2087,F,Weapon Upgrade,PROGRAMMING,"['*special', '*special', 'dp']",,,66
+2087,E,Color the Arrows,PROGRAMMING,"['*special', '*special', 'dp', 'dp']",,,158
+2087,D,Uppercase or Lowercase?,PROGRAMMING,"['*special', '*special', 'interactive']",,,260
+2087,C,Coin Game,PROGRAMMING,"['*special', 'greedy']",,,478
+2087,B,Showmatch,PROGRAMMING,['*special'],,,556
+2087,A,Password Generator,PROGRAMMING,['*special'],,,1036
+2011,I,Stack and Queue,PROGRAMMING,"['*special', 'data structures', 'divide and conquer']",,,21
+2011,H,Strange Matrix,PROGRAMMING,"['*special', 'graphs', 'greedy']",,,54
+2011,G,Removal of a Permutation,PROGRAMMING,['*special'],,,46
+2011,F,Good Subarray,PROGRAMMING,"['*special', 'data structures', 'greedy']",,,127
+2011,E,Rock-Paper-Scissors Bot,PROGRAMMING,"['*special', 'greedy', 'strings']",,,178
+2011,D,Among Wolves,PROGRAMMING,['*special'],,,278
+2011,C,Split the Expression,PROGRAMMING,['*special'],,,372
+2011,B,Shuffle,PROGRAMMING,['*special'],,,668
+2011,A,Problem Solving,PROGRAMMING,['*special'],,,1124
+1953,A,Accuracy-Preserving Summation Algorithm,PROGRAMMING,['*special'],,,0
+1952,J,"Help, what does it mean to be ""Based""",PROGRAMMING,"['*special', 'brute force', 'constructive algorithms', 'expression parsing', 'implementation', 'sortings']",,,859
+1952,I,Dark Matter,PROGRAMMING,"['*special', 'bitmasks', 'geometry']",,,624
+1952,H,Palindrome,PROGRAMMING,"['*special', 'implementation', 'strings']",,,780
+1952,G,Mathematician Takeover,PROGRAMMING,"['*special', 'binary search', 'dfs and similar', 'math']",,,1157
+1952,F,Grid,PROGRAMMING,"['*special', 'brute force']",,,1878
+1952,E,Sweep Line,PROGRAMMING,"['*special', 'combinatorics', 'games', 'math']",,,316
+1952,D,Are You a Procrastinator?,PROGRAMMING,"['*special', 'implementation']",,,5208
+1952,C,They Have Fooled,PROGRAMMING,"['*special', 'brute force', 'schedules']",,,3187
+1952,B,Is it stated?,PROGRAMMING,"['*special', 'strings']",,,12052
+1952,A,"Are You a Robot, Again?",PROGRAMMING,"['*special', 'strings']",,,13727
+1940,D,Almost Certainly,PROGRAMMING,"['*special', 'constructive algorithms', 'data structures', 'sortings']",,,163
+1940,C,Burenka and Pether,PROGRAMMING,"['*special', 'data structures', 'dfs and similar', 'divide and conquer', 'dsu', 'graphs', 'sortings', 'trees']",,,38
+1940,B,Three Arrays,PROGRAMMING,"['*special', 'constructive algorithms', 'implementation', 'sortings']",,,246
+1940,A,Parallel Universes,PROGRAMMING,"['*special', 'constructive algorithms', 'dfs and similar', 'dsu', 'graphs']",,,97
+1939,D,Big Persimmon,PROGRAMMING,"['*special', 'dp', 'games']",,,105
+1939,C,More Gifts,PROGRAMMING,"['*special', 'dfs and similar', 'two pointers']",,,369
+1939,B,Evidence Board,PROGRAMMING,"['*special', 'constructive algorithms', 'dfs and similar', 'graphs', 'trees']",,,277
+1939,A,Draw Polygon Lines,PROGRAMMING,"['*special', 'constructive algorithms', 'dp', 'geometry', 'interactive']",,,30
+1885,A,Deterministic Scheduling for Extended Reality over 5G and Beyond,PROGRAMMING,['*special'],,,0
+1812,J,Unmysterious Language,PROGRAMMING,"['*special', 'constructive algorithms', 'strings']",,,6201
+1812,I,Mountain Climber,PROGRAMMING,['*special'],,,281
+1812,H,Expected Twist,PROGRAMMING,"['*special', 'interactive']",,,162
+1812,G,Colour Vision,PROGRAMMING,"['*special', 'implementation']",,,593
+1812,F,Factorization,PROGRAMMING,"['*special', 'number theory']",,,1309
+1812,E,Not a Geometry Problem,PROGRAMMING,"['*special', '*special', 'constructive algorithms', 'geometry', 'math']",,,4210
+1812,D,Trivial Conjecture,PROGRAMMING,"['*special', 'constructive algorithms', 'math', 'number theory']",,,4825
+1812,C,Digits,PROGRAMMING,['*special'],,,1326
+1812,B,Was it Rated?,PROGRAMMING,"['*special', '*special', '*special', 'brute force', 'implementation']",,,5971
+1812,A,Are You a Robot?,PROGRAMMING,"['*special', '*special', '*special', 'expression parsing', 'strings']",,,14103
+1663,H,Cross-Language Program,PROGRAMMING,"['*special', 'constructive algorithms']",,,1309
+1663,G,Six Characters,PROGRAMMING,"['*special', 'constructive algorithms', 'strings']",,,217
+1663,F,In Every Generation...,PROGRAMMING,"['*special', 'strings']",,,365
+1663,E,Are You Safe?,PROGRAMMING,"['*special', 'implementation']",,,575
+1663,D,Is it rated - 3,PROGRAMMING,"['*special', 'combinatorics', 'dp', 'math']",,,1463
+1663,C,Pōja Verdon,PROGRAMMING,"['*special', 'implementation', 'math']",,,5820
+1663,B,Mike's Sequence,PROGRAMMING,"['*special', 'divide and conquer', 'implementation', 'math']",,,3527
+1663,A,Who Tested?,PROGRAMMING,"['*special', 'expression parsing', 'trees']",,,10788
+1662,O,Circular Maze,PROGRAMMING,"['brute force', 'dfs and similar', 'graphs', 'implementation']",,,1513
+1662,N,Drone Photo,PROGRAMMING,"['combinatorics', 'math', 'sortings']",,,864
+1662,M,Bottle Arrangements,PROGRAMMING,['constructive algorithms'],,,3761
+1662,L,Il Derby della Madonnina,PROGRAMMING,"['data structures', 'dp', 'math']",,,1210
+1662,K,Pandemic Restrictions,PROGRAMMING,"['geometry', 'ternary search']",,,359
+1662,J,Training Camp,PROGRAMMING,"['flows', 'graphs']",,,291
+1662,I,Ice Cream Shop,PROGRAMMING,"['brute force', 'implementation', 'sortings']",,,2361
+1662,H,Boundary,PROGRAMMING,"['brute force', 'math']",,,3254
+1662,G,Gastronomic Event,PROGRAMMING,"['dp', 'greedy', 'trees']",,,519
+1662,F,Antennas,PROGRAMMING,"['data structures', 'dfs and similar', 'graphs', 'graphs', 'implementation', 'implementation', 'shortest paths', 'shortest paths']",,,1159
+1662,E,Round Table,PROGRAMMING,['math'],,,160
+1662,D,Evolution of Weasels,PROGRAMMING,"['greedy', 'implementation', 'strings']",,,2043
+1662,C,European Trip,PROGRAMMING,"['dp', 'graphs', 'math', 'matrices']",,,367
+1662,B,Toys,PROGRAMMING,"['greedy', 'strings']",,,147
+1662,A,Organizing SWERC,PROGRAMMING,"['brute force', 'implementation']",,,4683
+1639,K,Treasure Hunt,PROGRAMMING,"['graphs', 'interactive']",,,0
+1639,J,Treasure Hunt,PROGRAMMING,"['graphs', 'interactive']",,,0
+1639,I,Treasure Hunt,PROGRAMMING,"['graphs', 'interactive']",,,0
+1639,H,Treasure Hunt,PROGRAMMING,"['graphs', 'interactive']",,,0
+1639,G,Treasure Hunt,PROGRAMMING,"['graphs', 'interactive']",,,0
+1639,F,Treasure Hunt,PROGRAMMING,"['graphs', 'interactive']",,,0
+1639,E,Treasure Hunt,PROGRAMMING,"['graphs', 'interactive']",,,0
+1639,D,Treasure Hunt,PROGRAMMING,"['graphs', 'interactive']",,,0
+1639,C,Treasure Hunt,PROGRAMMING,"['graphs', 'interactive']",,,0
+1639,B,Treasure Hunt,PROGRAMMING,"['graphs', 'interactive']",,,0
+1639,A,Treasure Hunt,PROGRAMMING,"['graphs', 'interactive']",,,0
+1576,A,Communication Routing Challenge,PROGRAMMING,['*special'],,,0
+1533,J,Pawns,PROGRAMMING,['*special'],,,52
+1533,I,Excursions,PROGRAMMING,"['*special', 'constructive algorithms', 'dfs and similar', 'flows', 'graph matchings', 'graphs']",,,60
+1533,H,Submatrices,PROGRAMMING,"['*special', 'bitmasks', 'data structures', 'dp']",,,91
+1533,G,Biome Map,PROGRAMMING,"['*special', 'constructive algorithms', 'dfs and similar', 'graphs']",,,97
+1533,F,Binary String Partition,PROGRAMMING,"['*special', 'binary search', 'greedy']",,,224
+1533,E,Chess Team Forming,PROGRAMMING,"['*special', 'binary search', 'data structures', 'greedy']",,,285
+1533,D,String Searching,PROGRAMMING,"['*special', 'hashing']",,,509
+1533,C,Sweets,PROGRAMMING,"['*special', 'data structures', 'implementation']",,,483
+1533,B,Nearest Point Function,PROGRAMMING,"['*special', 'implementation']",,,811
+1533,A,Travel to Bertown,PROGRAMMING,"['*special', 'implementation', 'math']",,,1123
+1532,F,Prefixes and Suffixes,PROGRAMMING,"['*special', 'strings']",,,219
+1532,E,Good Array,PROGRAMMING,['*special'],,,391
+1532,D,Teams Forming,PROGRAMMING,"['*special', 'sortings']",,,588
+1532,C,Uniform String,PROGRAMMING,"['*special', 'implementation']",,,640
+1532,B,Frog Jumping,PROGRAMMING,"['*special', 'math']",,,826
+1532,A,A+B (Trial Problem),PROGRAMMING,['*special'],,,1148
+1531,E3,Сортировка слиянием,PROGRAMMING,"['*special', 'binary search']",,,271
+1531,E2,Сортировка слиянием,PROGRAMMING,"['*special', '*special', 'brute force']",,,339
+1531,E1,Сортировка слиянием,PROGRAMMING,['*special'],,,359
+1531,D,Редактируем Зингер | color,PROGRAMMING,"['*special', '*special']",,,356
+1531,C,Симметричный амфитеатр,PROGRAMMING,"['*special', 'constructive algorithms', 'dp']",,,656
+1531,B2,Мониторинг,PROGRAMMING,['*special'],,,777
+1531,B1,Мониторинг,PROGRAMMING,"['*special', '*special']",,,1136
+1531,A,Зингер | color,PROGRAMMING,"['*special', 'implementation']",,,1462
+1357,E2,Root of quantum Fourier transform,PROGRAMMING,['*special'],,,53
+1357,E1,Power of quantum Fourier transform,PROGRAMMING,['*special'],,,195
+1357,D5,Quantum Classification - Dataset 7,PROGRAMMING,['*special'],,,83
+1357,D4,Quantum Classification - Dataset 6,PROGRAMMING,['*special'],,,86
+1357,D3,Quantum Classification - Dataset 5,PROGRAMMING,['*special'],,,106
+1357,D2,Quantum Classification - Dataset 4,PROGRAMMING,['*special'],,,113
+1357,D1,Quantum Classification - Dataset 3,PROGRAMMING,['*special'],,,126
+1357,C2,Prepare superposition of basis states with the same parity,PROGRAMMING,['*special'],,,306
+1357,C1,Prepare superposition of basis states with 0s,PROGRAMMING,['*special'],,,350
+1357,B2,"""Is the number divisible by 3?"" oracle",PROGRAMMING,['*special'],,,216
+1357,B1,"""Is the bit string balanced?"" oracle",PROGRAMMING,['*special'],,,216
+1357,A7,"Distinguish Y, XZ, -Y and -XZ",PROGRAMMING,['*special'],,,185
+1357,A6,Distinguish four Pauli gates,PROGRAMMING,['*special'],,,170
+1357,A5,Distinguish Rz(θ) from Ry(θ),PROGRAMMING,['*special'],,,243
+1357,A4,Distinguish Rz from R1,PROGRAMMING,['*special'],,,354
+1357,A3,Distinguish H from X,PROGRAMMING,['*special'],,,481
+1357,A2,"Distinguish I, CNOTs and SWAP",PROGRAMMING,['*special'],,,513
+1357,A1,Figure out direction of CNOT,PROGRAMMING,['*special'],,,634
+1356,D2,Quantum Classification - 2,PROGRAMMING,['*special'],,,129
+1356,D1,Quantum Classification - 1,PROGRAMMING,['*special'],,,138
+1356,C,Prepare state |01⟩ + |10⟩ + |11⟩,PROGRAMMING,['*special'],,,305
+1356,B2,Decrement,PROGRAMMING,['*special'],,,286
+1356,B1,Increment,PROGRAMMING,['*special'],,,285
+1356,A5,Distinguish Z from -Z,PROGRAMMING,['*special'],,,334
+1356,A4,Distinguish I ⊗ X from CNOT,PROGRAMMING,['*special'],,,461
+1356,A3,Distinguish Z from S,PROGRAMMING,['*special'],,,463
+1356,A2,Distinguish I from Z,PROGRAMMING,['*special'],,,490
+1356,A1,Distinguish I from X,PROGRAMMING,['*special'],,,605
+1331,H,It's showtime,PROGRAMMING,['*special'],,,642
+1331,G,Lingua Romana,PROGRAMMING,['*special'],,,524
+1331,F,Elementary!,PROGRAMMING,"['*special', 'brute force', 'dp', 'strings']",,,591
+1331,E,Jordan Smiley,PROGRAMMING,"['*special', 'dfs and similar', 'geometry', 'implementation']",,,1229
+1331,D,Again?,PROGRAMMING,"['*special', 'implementation']",,,12049
+1331,C,...And after happily lived ever they,PROGRAMMING,"['*special', 'bitmasks']",,,3197
+1331,B,Limericks,PROGRAMMING,"['*special', 'math', 'number theory']",,,7099
+1331,A,Is it rated?,PROGRAMMING,['*special'],,,17380
+1302,J,Keep talking and nobody explodes -- hard,PROGRAMMING,[],,,10
+1302,I,Deja vu,PROGRAMMING,[],,,6
+1302,H,Who needs suffix structures?,PROGRAMMING,[],,,10
+1302,G,Keep talking and nobody explodes -- medium,PROGRAMMING,[],,,23
+1302,F,Keep talking and nobody explodes -- easy,PROGRAMMING,"['bitmasks', 'brute force', 'expression parsing']",,,75
+1302,E,Amazing bitset,PROGRAMMING,[],,,51
+1302,D,Dijkstra,PROGRAMMING,[],,,97
+1302,C,Segment tree or Fenwick?,PROGRAMMING,['data structures'],,,383
+1302,B,DAG,PROGRAMMING,['constructive algorithms'],,,149
+1302,A,Nash equilibrium,PROGRAMMING,[],,,299
+1297,I,Falling Blocks,PROGRAMMING,"['*special', 'data structures']",,,36
+1297,H,Paint the String,PROGRAMMING,"['*special', 'dp', 'strings']",,,52
+1297,G,M-numbers,PROGRAMMING,"['*special', 'dp', 'math']",,,77
+1297,F,Movie Fan,PROGRAMMING,"['*special', 'data structures', 'greedy', 'implementation', 'sortings']",,,125
+1297,E,Modernization of Treeland,PROGRAMMING,"['*special', 'dfs and similar', 'trees']",,,214
+1297,D,Bonus Distribution ,PROGRAMMING,"['*special', 'binary search', 'greedy', 'sortings']",,,271
+1297,C,Dream Team,PROGRAMMING,"['*special', 'greedy']",,,410
+1297,B,Cartoons,PROGRAMMING,"['*special', 'implementation', 'sortings']",,,424
+1297,A,Likes Display,PROGRAMMING,"['*special', 'implementation']",,,953
+1275,F,Шардирование постов,PROGRAMMING,"['*special', 'binary search', 'interactive']",3000.0,,92
+1275,E3,Контрольная сумма,PROGRAMMING,['*special'],1000.0,,57
+1275,E2,Контрольная сумма,PROGRAMMING,['*special'],1000.0,,131
+1275,E1,Контрольная сумма,PROGRAMMING,['*special'],1000.0,,256
+1275,D,Storage2,PROGRAMMING,['*special'],2000.0,,422
+1275,C,#define Задача B ...,PROGRAMMING,['*special'],1000.0,,683
+1275,B,Code Review,PROGRAMMING,['*special'],250.0,,826
+1275,A,Скрытый друг,PROGRAMMING,['*special'],250.0,,889
+1193,C,Scissors and Tape,PROGRAMMING,"['*special', 'constructive algorithms', 'geometry']",,,47
+1193,B,Magic Tree,PROGRAMMING,"['*special', 'data structures', 'dp', 'trees']",,,492
+1193,A,Amusement Park,PROGRAMMING,"['*special', 'dp', 'math']",,,368
+1192,C,Cubeword,PROGRAMMING,"['*special', 'brute force', 'dp', 'meet-in-the-middle']",,,342
+1192,B,Dynamic Diameter,PROGRAMMING,"['*special', 'data structures', 'dfs and similar', 'divide and conquer', 'trees']",,,1460
+1192,A,Building Skyscrapers,PROGRAMMING,['*special'],,,78
+1170,I,Good Subsets,PROGRAMMING,"['*special', 'dp']",,,47
+1170,H,Longest Saw,PROGRAMMING,"['*special', 'constructive algorithms']",,,56
+1170,G,Graph Decomposition,PROGRAMMING,"['*special', 'graphs']",,,83
+1170,F,Wheels,PROGRAMMING,"['*special', 'binary search', 'greedy']",,,133
+1170,E,Sliding Doors,PROGRAMMING,"['*special', 'binary search']",,,270
+1170,D,Decoding of Integer Sequences,PROGRAMMING,"['*special', 'data structures', 'implementation']",,,493
+1170,C,Minus and Minus Give Plus,PROGRAMMING,"['*special', 'implementation', 'strings']",,,818
+1170,B,Bad Days,PROGRAMMING,"['*special', 'implementation']",,,1133
+1170,A,Three Integers Again,PROGRAMMING,"['*special', 'math']",,,1534
+1160,A2,Collaboration,PROGRAMMING,['*special'],,,0
+1145,G,AI Takeover,PROGRAMMING,"['*special', 'interactive']",,,182
+1145,F,Neat Words,PROGRAMMING,['*special'],,,529
+1145,E,Fourier Doodles,PROGRAMMING,[],,,438
+1145,D,Pigeon d'Or,PROGRAMMING,"['*special', 'implementation']",,,1181
+1145,C,Mystery Circuit,PROGRAMMING,"['bitmasks', 'brute force']",,,822
+1145,B,Kanban Numbers,PROGRAMMING,"['*special', 'brute force']",,,1486
+1145,A,Thanos Sort,PROGRAMMING,['implementation'],,,9049
+1116,D6,Hessenberg matrix,PROGRAMMING,['*special'],,,81
+1116,D5,Creeper,PROGRAMMING,['*special'],,,152
+1116,D4,TIE fighter,PROGRAMMING,['*special'],,,171
+1116,D3,X-wing fighter,PROGRAMMING,['*special'],,,206
+1116,D2,Pattern of increasing blocks,PROGRAMMING,['*special'],,,235
+1116,D1,Block diagonal matrix,PROGRAMMING,['*special'],,,277
+1116,C3,``Is the number of ones divisible by 3?'' oracle,PROGRAMMING,['*special'],,,186
+1116,C2,``Is the bit string periodic?'' oracle,PROGRAMMING,['*special'],,,188
+1116,C1,Alternating bits oracle,PROGRAMMING,['*special'],,,266
+1116,B2,"Not A, not B or not C?",PROGRAMMING,['*special'],,,61
+1116,B1,Distinguish three-qubit states,PROGRAMMING,['*special'],,,135
+1116,A2,Generate equal superposition of four basis states,PROGRAMMING,['*special'],,,183
+1116,A1,Generate state |00⟩ + |01⟩ + |10⟩,PROGRAMMING,['*special'],,,326
+399,B,Red and Blue Balls,PROGRAMMING,[],1000.0,,1863
+399,A,Pages,PROGRAMMING,['implementation'],500.0,,4181
+398,E,Sorting Permutations,PROGRAMMING,[],2500.0,,106
+398,D,Instant Messanger,PROGRAMMING,['data structures'],2000.0,,1132
+398,C,Tree and Array,PROGRAMMING,['constructive algorithms'],1500.0,,218
+398,B,Painting The Wall,PROGRAMMING,"['dp', 'probabilities']",1000.0,,1128
+398,A,Cards,PROGRAMMING,"['constructive algorithms', 'implementation']",500.0,,939
+397,B,On Corruption and Numbers,PROGRAMMING,"['constructive algorithms', 'implementation', 'math']",1000.0,,789
+397,A,On Segment's Own Points,PROGRAMMING,['implementation'],500.0,,2668
+396,E,On Iteration of One Well-Known Function,PROGRAMMING,['math'],2500.0,,160
+396,D,On Sum of Number of Inversions in Permutations,PROGRAMMING,"['combinatorics', 'math']",2000.0,,454
+396,C,On Changing Tree,PROGRAMMING,"['data structures', 'graphs', 'trees']",1500.0,,1712
+396,B,On Sum of Fractions,PROGRAMMING,"['math', 'number theory']",1000.0,,1165
+396,A,On Number of Decompositions into Multipliers,PROGRAMMING,"['combinatorics', 'math', 'number theory']",500.0,,1558
+394,E,Lightbulb for Minister,PROGRAMMING,['geometry'],2500.0,,125
+394,D,Physical Education and Buns,PROGRAMMING,"['brute force', 'implementation', 'math']",2000.0,,283
+394,C,Dominoes,PROGRAMMING,"['constructive algorithms', 'greedy']",1500.0,,532
+394,B,Very Beautiful Number,PROGRAMMING,['math'],1000.0,,594
+394,A,Counting Sticks,PROGRAMMING,"['brute force', 'implementation']",500.0,,2716
+393,B,Three matrices,PROGRAMMING,[],1000.0,,2042
+393,A,Nineteen,PROGRAMMING,[],500.0,,6865
+392,E,Deleting Substrings,PROGRAMMING,[],2500.0,,181
+392,D,Three Arrays,PROGRAMMING,['data structures'],2000.0,,230
+392,C,Yet Another Number Sequence,PROGRAMMING,"['combinatorics', 'math', 'matrices']",1500.0,,628
+392,B,Tower of Hanoi,PROGRAMMING,['dp'],1000.0,,1000
+392,A,Blocked Points,PROGRAMMING,['math'],500.0,,988
+391,F3,Stock Trading,PROGRAMMING,[],10.0,,110
+391,F2,Stock Trading,PROGRAMMING,['greedy'],15.0,,112
+391,F1,Stock Trading,PROGRAMMING,['dp'],8.0,,204
+391,E2,Three Trees,PROGRAMMING,[],13.0,,179
+391,E1,Three Trees,PROGRAMMING,[],11.0,,128
+391,D2,Supercollider,PROGRAMMING,['data structures'],16.0,,201
+391,D1,Supercollider,PROGRAMMING,['brute force'],3.0,,224
+391,C3,The Tournament,PROGRAMMING,[],8.0,,172
+391,C2,The Tournament,PROGRAMMING,['greedy'],4.0,,139
+391,C1,The Tournament,PROGRAMMING,['brute force'],4.0,,192
+391,B,Word Folding,PROGRAMMING,['brute force'],5.0,,409
+391,A,Genetic Engineering,PROGRAMMING,"['implementation', 'two pointers']",3.0,,1768
+390,E,Inna and Large Sweet Matrix,PROGRAMMING,[],2500.0,,263
+390,D,Inna and Sweet Matrix,PROGRAMMING,['constructive algorithms'],2000.0,,525
+390,C,Inna and Candy Boxes,PROGRAMMING,['data structures'],1500.0,,639
+390,B,"Inna, Dima and Song",PROGRAMMING,['implementation'],1000.0,,1192
+390,A,Inna and Alarm Clock,PROGRAMMING,['implementation'],500.0,,3657

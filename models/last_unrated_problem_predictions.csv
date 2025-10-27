@@ -1,0 +1,7 @@
+model,pred_raw,pred_rounded
+LinearRegression,1402.0047063801262,1400
+Ridge,1403.4954497614572,1400
+Polynomial_deg3,1528.262290139345,1500
+Polynomial_deg2,1731.3463067096231,1700
+RandomForestRegressor,3442.0,3400
+DecisionTreeRegressor,3500.0,3500
