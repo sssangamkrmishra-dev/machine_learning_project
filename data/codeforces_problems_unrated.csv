@@ -1,37 +1,37 @@
 contestId,index,name,type,tags,rating,points,solvedCount
 2172,N,New Kingdom,PROGRAMMING,[],,,35
-2172,M,Maximum Distance To Port,PROGRAMMING,[],,,846
+2172,M,Maximum Distance To Port,PROGRAMMING,[],,,847
 2172,L,Maximum Color Segment,PROGRAMMING,['dp'],,,157
-2172,K,Kindergarten Homework,PROGRAMMING,[],,,220
+2172,K,Kindergarten Homework,PROGRAMMING,[],,,222
 2172,J,Sliding Tiles,PROGRAMMING,[],,,147
 2172,I,Birthday,PROGRAMMING,['geometry'],,,290
 2172,H,Shuffling Cards with Problem Solver 68!,PROGRAMMING,['string suffix structures'],,,87
-2172,G,Gene Editor,PROGRAMMING,[],,,4
+2172,G,Gene Editor,PROGRAMMING,[],,,7
 2172,F,Cluster Computing System,PROGRAMMING,[],,,577
 2172,E,Number Maze,PROGRAMMING,"['constructive algorithms', 'implementation']",,,1031
 2172,D,Divisor Card Game,PROGRAMMING,[],,,16
 2172,C,Circles Are Far from Each Other,PROGRAMMING,[],,,17
 2172,B,Buses,PROGRAMMING,[],,,485
-2172,A,ASCII Art Contest,PROGRAMMING,['implementation'],,,1928
+2172,A,ASCII Art Contest,PROGRAMMING,['implementation'],,,1932
 2169,F,Subsequence Problem,PROGRAMMING,"['combinatorics', 'dp', 'fft', 'math']",,,152
 2169,E,Points Selection,PROGRAMMING,"['bitmasks', 'brute force', 'dp', 'geometry', 'greedy']",,,475
-2169,D2,Removal of a Sequence (Hard Version),PROGRAMMING,"['binary search', 'binary search', 'divide and conquer', 'greedy', 'implementation', 'math', 'number theory']",,,1311
-2169,D1,Removal of a Sequence (Easy Version),PROGRAMMING,"['binary search', 'implementation', 'math', 'number theory']",,,4913
-2169,C,Range Operation,PROGRAMMING,"['greedy', 'math']",,,7737
-2169,B,Drifting Away,PROGRAMMING,"['greedy', 'implementation']",,,10478
-2169,A,Alice and Bob,PROGRAMMING,['greedy'],,,11149
+2169,D2,Removal of a Sequence (Hard Version),PROGRAMMING,"['binary search', 'binary search', 'divide and conquer', 'greedy', 'implementation', 'math', 'number theory']",,,1312
+2169,D1,Removal of a Sequence (Easy Version),PROGRAMMING,"['binary search', 'implementation', 'math', 'number theory']",,,4917
+2169,C,Range Operation,PROGRAMMING,"['greedy', 'math']",,,7743
+2169,B,Drifting Away,PROGRAMMING,"['greedy', 'implementation']",,,10483
+2169,A,Alice and Bob,PROGRAMMING,['greedy'],,,11159
 2168,C,Intercepting Butterflies,PROGRAMMING,"['bitmasks', 'constructive algorithms', 'graphs', 'interactive']",,,695
 2168,B,Locate,PROGRAMMING,"['binary search', 'combinatorics', 'constructive algorithms', 'greedy', 'interactive']",,,1297
 2168,A2,Encode and Decode (Hard Version),PROGRAMMING,"['bitmasks', 'interactive', 'math']",,,2728
 2168,A1,Encode and Decode (Easy Version),PROGRAMMING,"['constructive algorithms', 'interactive']",,,4163
-2166,B,Tab Closing,PROGRAMMING,['math'],,750.0,9654
-2166,A,Same Difference,PROGRAMMING,"['brute force', 'dp', 'strings']",,500.0,12480
+2166,B,Tab Closing,PROGRAMMING,['math'],,750.0,9674
+2166,A,Same Difference,PROGRAMMING,"['brute force', 'dp', 'strings']",,500.0,12502
 2165,F,Arctic Acquisition,PROGRAMMING,['data structures'],,4000.0,21
-2165,E,Rainbow Branch,PROGRAMMING,"['constructive algorithms', 'dp', 'greedy', 'trees']",,3000.0,49
-2165,D,Path Split,PROGRAMMING,"['dp', 'flows', 'graph matchings', 'greedy']",,2500.0,297
-2165,C,Binary Wine,PROGRAMMING,"['bitmasks', 'greedy', 'math']",,1500.0,1536
-2165,B,Marble Council,PROGRAMMING,"['dp', 'math']",,1000.0,1938
-2165,A,Cyclic Merging,PROGRAMMING,"['brute force', 'constructive algorithms', 'graphs', 'greedy', 'trees']",,500.0,7144
+2165,E,Rainbow Branch,PROGRAMMING,"['constructive algorithms', 'dp', 'greedy', 'trees']",,3000.0,50
+2165,D,Path Split,PROGRAMMING,"['dp', 'flows', 'graph matchings', 'greedy']",,2500.0,301
+2165,C,Binary Wine,PROGRAMMING,"['bitmasks', 'greedy', 'math']",,1500.0,1540
+2165,B,Marble Council,PROGRAMMING,"['dp', 'math']",,1000.0,1945
+2165,A,Cyclic Merging,PROGRAMMING,"['brute force', 'constructive algorithms', 'graphs', 'greedy', 'trees']",,500.0,7163
 2164,H,PalindromePalindrome,PROGRAMMING,"['data structures', 'strings']",,5500.0,26
 2164,G,Pointless Machine,PROGRAMMING,"['constructive algorithms', 'graphs', 'interactive', 'trees']",,3500.0,125
 2164,F2,Chain Prefix Rank (Hard Version),PROGRAMMING,"['binary search', 'combinatorics', 'data structures', 'dfs and similar', 'dp', 'graphs', 'math', 'trees']",,1500.0,272
@@ -40,12 +40,12 @@ contestId,index,name,type,tags,rating,points,solvedCount
 2164,D,Copy String,PROGRAMMING,"['greedy', 'implementation', 'strings', 'two pointers']",,1750.0,3605
 2164,C,Dungeon,PROGRAMMING,"['binary search', 'brute force', 'data structures', 'greedy', 'sortings']",,1500.0,7478
 2164,B,Even Modulo Pair,PROGRAMMING,"['brute force', 'math', 'number theory']",,750.0,12361
-2164,A,Sequence Game,PROGRAMMING,"['brute force', 'sortings']",,500.0,15777
+2164,A,Sequence Game,PROGRAMMING,"['brute force', 'sortings']",,500.0,15778
 2163,E,Plegma,PROGRAMMING,"['bitmasks', 'combinatorics', 'interactive']",,2750.0,455
 2163,D2,Diadrash (Hard Version),PROGRAMMING,"['binary search', 'interactive', 'math', 'sortings']",,1250.0,1033
 2163,D1,Diadrash (Easy Version),PROGRAMMING,"['binary search', 'brute force', 'divide and conquer', 'implementation', 'interactive']",,1500.0,1972
-2163,C,Monopati,PROGRAMMING,"['brute force', 'combinatorics', 'dp', 'math', 'two pointers']",,1250.0,5968
-2163,B,Siga ta Kymata,PROGRAMMING,"['constructive algorithms', 'greedy', 'implementation', 'math']",,1000.0,6664
+2163,C,Monopati,PROGRAMMING,"['brute force', 'combinatorics', 'dp', 'math', 'two pointers']",,1250.0,5969
+2163,B,Siga ta Kymata,PROGRAMMING,"['constructive algorithms', 'greedy', 'implementation', 'math']",,1000.0,6665
 2163,A,Souvlaki VS. Kalamaki,PROGRAMMING,"['brute force', 'greedy', 'math', 'sortings']",,500.0,15307
 2095,J,Premiere at a Wrong Time,PROGRAMMING,['*special'],,,468
 2095,I,Mysterious Script,PROGRAMMING,"['*special', 'expression parsing', 'number theory']",,,597
@@ -116,14 +116,14 @@ contestId,index,name,type,tags,rating,points,solvedCount
 1662,O,Circular Maze,PROGRAMMING,"['brute force', 'dfs and similar', 'graphs', 'implementation']",,,1548
 1662,N,Drone Photo,PROGRAMMING,"['combinatorics', 'math', 'sortings']",,,886
 1662,M,Bottle Arrangements,PROGRAMMING,['constructive algorithms'],,,3817
-1662,L,Il Derby della Madonnina,PROGRAMMING,"['data structures', 'dp', 'math']",,,1237
+1662,L,Il Derby della Madonnina,PROGRAMMING,"['data structures', 'dp', 'math']",,,1238
 1662,K,Pandemic Restrictions,PROGRAMMING,"['geometry', 'ternary search']",,,370
 1662,J,Training Camp,PROGRAMMING,"['flows', 'graphs']",,,291
 1662,I,Ice Cream Shop,PROGRAMMING,"['brute force', 'implementation', 'sortings']",,,2406
 1662,H,Boundary,PROGRAMMING,"['brute force', 'math']",,,3306
 1662,G,Gastronomic Event,PROGRAMMING,"['dp', 'greedy', 'trees']",,,523
 1662,F,Antennas,PROGRAMMING,"['data structures', 'dfs and similar', 'graphs', 'graphs', 'implementation', 'implementation', 'shortest paths', 'shortest paths']",,,1175
-1662,E,Round Table,PROGRAMMING,['math'],,,165
+1662,E,Round Table,PROGRAMMING,['math'],,,166
 1662,D,Evolution of Weasels,PROGRAMMING,"['greedy', 'implementation', 'strings']",,,2077
 1662,C,European Trip,PROGRAMMING,"['dp', 'graphs', 'math', 'matrices']",,,368
 1662,B,Toys,PROGRAMMING,"['greedy', 'strings']",,,147
